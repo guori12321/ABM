@@ -1,5 +1,7 @@
 # Adblock Minus (ABM)
 
+This program is built for the [ABP contest](http://abpchina.org/%E7%AD%89%E5%BE%85%E7%9D%80%E4%BD%A0/).
+
 I aims to block more advertisements by less rules. Thus I name my program `Adbluck Minus`.
 
 ## Author Introduction
@@ -48,7 +50,7 @@ The ABM may take 30 seconds when search a complicate web pages such as youku.com
 
 2. manifest.json : I develop ABM as a chrome extension, and this file is necessary for it.
 
-3. Guo_Rui_CV.pdf : My CV.
+3. Guo_Rui_CV.pdf : My CV. *Deleted for the this branch*
 
 4. README.md : just this README file that you are looking at.
 
